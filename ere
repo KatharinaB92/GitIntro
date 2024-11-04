@@ -1,0 +1,32 @@
+[33mcommit 4ab015cff74007b1aa2b4f057e6bc6fcb735aa59[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: KatharinaB92 <bartschke.katharina@gmail.com>
+Date:   Sun Nov 3 14:49:14 2024 +0100
+
+    Remote Commit
+
+[33mcommit 5cab7aed8c75c2f31a1b6d017218b72e1e647151[m
+Author: KatharinaB92 <bartschke.katharina@gmail.com>
+Date:   Sun Nov 3 14:41:45 2024 +0100
+
+    Neue Dabei hinzugefügt
+
+[33mcommit 1a51e851a5b4f0592cfe4a6c52b9acfc9e3b4b61[m
+Merge: f857cf8 cc95639
+Author: KatharinaB92 <bartschke.katharina@gmail.com>
+Date:   Thu Oct 31 09:37:01 2024 +0100
+
+    Merge pull request #1 from KatharinaB92/KatharinaB92-patch-1
+    
+    Update README.md
+
+[33mcommit cc95639b778d2e52b7a653ca475cf0a414cb366a[m
+Author: KatharinaB92 <bartschke.katharina@gmail.com>
+Date:   Thu Oct 31 09:35:17 2024 +0100
+
+    Update README.md
+
+[33mcommit f857cf8a45bccb13a92682916e9343924c57489b[m
+Author: KatharinaB92 <bartschke.katharina@gmail.com>
+Date:   Thu Oct 31 09:32:12 2024 +0100
+
+    Initial commit
